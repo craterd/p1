@@ -22,13 +22,13 @@ if (in_array($day, ['Friday', 'Saturday', 'Sunday'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- DWA Fall 2017 Project 1, by Dave Crater -->
+    <title>DWA Fall 2017 Project 1, by Dave Crater</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Dave Crater</h1>
     <img src='images/crater_image.png' style="width:200px;height:228px;">
-    <h2>About me</h2>
+    <h2>About Me:</h2>
     <p>
         I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
 	much of what I do involves satellite ground systems that use open-source web technologies<br>
