@@ -23,7 +23,7 @@ $choice = array_rand($quotes, 1);
     <img src='images/crater_image.png' height="228px" width="180px" alt='Crater photo'>
     <h2>About Me:</h2>
     <p>
-    I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
+    	I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
 	much of what I do involves satellite ground systems that use open-source web technologies<br>
 	such as PHP, Javascript, HTML, and CSS. I am also a graduate of Harvard Divinity School.<br>
 	I look forward to a great semester!
