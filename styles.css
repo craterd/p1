@@ -1,4 +1,9 @@
-body { 
-    text-align: center;
+body {
+    text-align: center; 
     transform: translateY(10%);
+}
+
+img {
+    width: 180px;
+    height: 228px;
 }

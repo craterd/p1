@@ -27,7 +27,7 @@ if (in_array($day, ['Friday', 'Saturday', 'Sunday'])) {
 </head>
 <body>
     <h1>Dave Crater</h1>
-    <img src='images/crater_image.png' style="width:180px;height:228px;" alt='Crater photo'>
+    <img src='images/crater_image.png' alt='Crater photo'>
     <h2>About Me:</h2>
     <p>
         I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
