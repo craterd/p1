@@ -30,7 +30,10 @@ if (in_array($day, ['Friday', 'Saturday', 'Sunday'])) {
     <img src='images/crater_image.png' style="width:200px;height:228px;">
     <h2>About me</h2>
     <p>
-        This is a test. This site is not yet live.
+        I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
+	much of what I do involves satellite ground systems that use open-source web technologies<br>
+	such as PHP, Javascript, HTML, and CSS. I am also a graduate of Harvard Divinity School.<br>
+	I look forward to a great semester!
     </p>
     <h2>Random Quote:</h2>
     <p>
