@@ -1,6 +1,4 @@
 <?php
-date_default_timezone_set('America/Los_Angeles');
-$day = date('l');
 
 $quotes = [
     'In theory there is no difference between theory and practice. --Yogi Berra',
@@ -12,25 +10,20 @@ $quotes = [
 
 $choice = array_rand($quotes, 1);
 
-if (in_array($day, ['Friday', 'Saturday', 'Sunday'])) {
-    $toDo = 'relax';
-} else {
-    $toDo = 'work';
-}
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
     <title>DWA Fall 2017 Project 1, by Dave Crater</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <h1>Dave Crater</h1>
-    <img src='images/crater_image.png' alt='Crater photo'>
+    <img src='images/crater_image.png' height="228px" width="180px" alt='Crater photo'>
     <h2>About Me:</h2>
     <p>
-        I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
+    I am a satellite systems engineer in Los Angeles, and am taking this course because<br>
 	much of what I do involves satellite ground systems that use open-source web technologies<br>
 	such as PHP, Javascript, HTML, and CSS. I am also a graduate of Harvard Divinity School.<br>
 	I look forward to a great semester!
